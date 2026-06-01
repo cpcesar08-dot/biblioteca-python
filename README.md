@@ -1,19 +1,19 @@
-# Sistema de Biblioteca em Python
+# Python Library System
 
-Sistema simples de gerenciamento de biblioteca desenvolvido em Python. O projeto permite adicionar, remover, listar e buscar livros, além de salvar os dados em um arquivo TXT para persistência.
+A simple library management system developed in Python. The project allows adding, removing, listing, and searching books, as well as saving data to a TXT file for persistence.
 
 ---
 
 ## Features
 
-- Adicionar livros
-- Remover livros
-- Listar livros
-- Buscar livros
-- Ordenação da lista
-- Salvamento automático em arquivo TXT
-- Carregamento automático ao iniciar o programa
-- Menu interativo no terminal
+- Add books
+- Remove books
+- List books
+- Search books
+- List sorting
+- Automatic saving to a TXT file
+- Automatic loading when the program starts
+- Interactive terminal menu
 
 ---
 
@@ -24,7 +24,7 @@ Sistema simples de gerenciamento de biblioteca desenvolvido em Python. O projeto
 ---
 
 ## Folder Structure
-sistema-biblioteca/
+python-library/
 │
 ├── biblioteca.py
 ├── livros.txt
@@ -34,15 +34,23 @@ sistema-biblioteca/
 
 ## Purpose
 
-Este projeto foi desenvolvido para praticar lógica de programação em Python, incluindo uso de funções, listas, loops, condicionais e manipulação de arquivos TXT para persistência de dados.
+This project was developed to practice Python programming logic, including the use of functions, lists, loops, conditionals, and file handling (TXT) for data persistence.
 
 ---
 
 ## How to Run the Project
 
-1. Instale o Python 3
-2. Abra o terminal na pasta do projeto
-3. Execute:
+1. Install Python 3
+2. Open the terminal in the project folder
+3. Run the command:
 
 ```bash
 python biblioteca.py
+
+---
+
+## Author
+
+Developed by **Cesar Chiccolli**
+
+GitHub: https://github.com/cpcesar08-dot
