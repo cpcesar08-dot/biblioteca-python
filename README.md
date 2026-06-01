@@ -49,6 +49,12 @@ python biblioteca.py
 
 ---
 
+## Note
+
+This project was originally developed in Brazilian Portuguese (pt-BR).
+
+---
+
 ## Author
 
 Developed by **Cesar Chiccolli**
