@@ -46,6 +46,7 @@ This project was developed to practice Python programming logic, including the u
 
 ```bash
 python biblioteca.py
+```
 
 ---
 
