@@ -25,7 +25,7 @@ def adcionar():
 
 def listar():
     for x in livros:
-        livros.sort
+        livros.sort()
         print(x)
 
 
@@ -33,6 +33,9 @@ def remover():
     entrada = input("digete o nome do livro: ")
     if entrada in livros:
         livros.remove(entrada)
+
+        salvar_livros()
+
         print("removido com sucesso!!!")
     else:
         print("livro nao encontrado!!!")
